@@ -1,0 +1,46 @@
+{
+    "data": [
+        {
+            "id": 0,
+            "name": "sword",
+            "rarity": 0,
+            "price": 12
+        },
+        {
+            "id": 0,
+            "name": "pendant",
+            "rarity": 1,
+            "price": 300
+        },
+        {
+            "id": 0,
+            "name": "bloody axe",
+            "rarity": 2,
+            "price": 9000
+        },
+        {
+            "id": 0,
+            "name": "dagger",
+            "rarity": 1,
+            "price": 990
+        },
+        {
+            "id": 0,
+            "name": "wood",
+            "rarity": 0,
+            "price": 5
+        },
+        {
+            "id": 0,
+            "name": "bow",
+            "rarity": 0,
+            "price": 100
+        },
+        {
+            "id": 0,
+            "name": "arrow",
+            "rarity": 0,
+            "price": 3
+        }
+    ]
+}
